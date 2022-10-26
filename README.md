@@ -4,7 +4,7 @@
 Você pode visualizar o projeto através [DESSE LINK](https://projeto-redes-sociais-html-css.vercel.app/).
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Mini Projeto do Capítulo 23 do curso de HTML-CSS do curso em vídeo.
 </p>
 
 <p align="center">
@@ -12,10 +12,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
@@ -33,16 +29,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+Neste projeto foi utilizado um iframe que exibe varias redes sociais e contem um link para cada acessar essas redes em outra aba do navegador.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://explorer-lab-rocketseat.vercel.app/). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+<img src="layout.png" alt="Layout">
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
